@@ -1,4 +1,4 @@
-name: deploy-nodejs-ecs-fargate
+name: deploy-nodejs-ecs-fargat
 
 on:
   push:
